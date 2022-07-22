@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://linlinkmusic.vercel.app/:match*"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://linlink.xyz/:match*"
+      "destination": "https://000linlin.link/:match*"
     }
   ]
 }

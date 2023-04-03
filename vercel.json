@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://000linlin.link/:match*"
+      "destination": "https://music.000linlin.link/:match*"
     }
   ]
 }
